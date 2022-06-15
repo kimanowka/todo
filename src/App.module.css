@@ -1,0 +1,10 @@
+.wrapper {
+  height: 100vh;
+  position: relative;
+}
+
+.filter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
